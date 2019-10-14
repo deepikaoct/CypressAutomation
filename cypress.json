@@ -1,0 +1,9 @@
+{
+    "pageLoadTimeout" : 80000,
+    "defaultCommandTimeout": 100000,
+    "env":{
+        "url":"https://rahulshettyacademy.com/AutomationPractice/"
+    },
+
+    "reporter": "mochawesome"
+}
